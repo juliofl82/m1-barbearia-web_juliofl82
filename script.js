@@ -120,6 +120,8 @@ function calculaTotal(pedido) {
 }
 calculaTotal(pedido);
 
+//teste
+
 
 
 
